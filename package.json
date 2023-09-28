@@ -1,0 +1,10 @@
+{
+  "name": "com.unity.codebox",
+  "displayName": "Udemy CodeBox",
+  "version": "1.0.0",
+  "unity": "2022.3",
+  "unityRelease": "0f1",
+  "description": "This is simply a package containing reusable code for Udemy Projects",
+  "dependencies": {},
+  "keywords": []
+}
